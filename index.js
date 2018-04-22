@@ -15,5 +15,5 @@ function subtract(a, b) {
 }
 
 function inc(n) {
-  return += 1;
+  return n += 1;
 }
